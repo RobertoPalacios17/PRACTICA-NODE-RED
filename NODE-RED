@@ -16,12 +16,12 @@ Despues de a ver realizado este procedimiento podras acceder para empezar a real
 -Instalamos el node red dashboard que se solicita, como se muestra en la imagen:
 ![](https://github.com/RobertoPalacios17/PRACTICA-NODE-RED/blob/main/Captura%20de%20pantalla%20Node%20Red1%20.png)
 
-- En la barra que se encuentra de lado izquierdo vamos a selecionar 3 nodos que ocuparemos, como se muestra en la siguiente imagen
+- Selecionaremos los 3 nodos que ocuparemos que se encuentran del lado izquierdo, como se muestra en la siguiente imagen
 ![](https://github.com/RobertoPalacios17/PRACTICA-NODE-RED/blob/main/Captura%20de%20pantalla%20Node%20Red2%20.png)
 
 -Unir los nodos y cambiar el nombre , como lo muestra la imagen
-![]
-- Pondremos cada uno de los nodos en el grupo correspondiente 
+![](https://github.com/RobertoPalacios17/PRACTICA-NODE-RED/blob/main/Captura%20de%20pantalla%20Node%20Red3%20.png)
+- Se colocaran cada uno de los nodos en el grupo correspondiente 
 
 ###RESULTADOS
 Cuando haya funcionado, verás los los resultados como se muestra en la siguente imagen.
