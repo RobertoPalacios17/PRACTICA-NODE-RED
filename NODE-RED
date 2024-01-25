@@ -1,0 +1,30 @@
+#Practica #5 Inicio-Node-Red
+
+##Introducción
+Node-RED es una herramienta de desarrollo basada en flujo para programación visual desarrollada originalmente por IBM para conectar dispositivos de hardware, API y servicios en línea como parte de la Internet de las cosas.
+
+### Material Necesario
+Node.js
+
+###Instalación del programa
+- Echa la instalación del programa deberemos iniciarlo dandole clic a la  pestaña de CMD para colocar lo siguiente:
+- Ejecutado dicho comando podras abrir de manera directa en internet colocando
+- "localhost:1880"
+
+Despues de a ver realizado este procedimiento podras acceder para empezar a realizar la practica
+
+-Instalamos el node red dashboard que se solicita :
+![]
+
+- En la barra que se encuentra de lado izquierdo vamos a selecionar 3 nodos que ocuparemos 
+![]
+
+-Unir los nodos y cambiar el nombre 
+![]
+- Pondremos cada uno de los nodos en el grupo correspondiente 
+
+###RESULTADOS
+Cuando haya funcionado, verás los los resultados como se muestra en la siguente imagen.
+![]
+
+
