@@ -13,13 +13,13 @@ Node.js
 
 Despues de a ver realizado este procedimiento podras acceder para empezar a realizar la practica
 
--Instalamos el node red dashboard que se solicita :
+-Instalamos el node red dashboard que se solicita, como se muestra en la imagen:
+![](https://github.com/RobertoPalacios17/PRACTICA-NODE-RED/blob/main/Captura%20de%20pantalla%20Node%20Red1%20.png)
+
+- En la barra que se encuentra de lado izquierdo vamos a selecionar 3 nodos que ocuparemos, como se muestra en la siguiente imagen
 ![]
 
-- En la barra que se encuentra de lado izquierdo vamos a selecionar 3 nodos que ocuparemos 
-![]
-
--Unir los nodos y cambiar el nombre 
+-Unir los nodos y cambiar el nombre , como lo muestra la imagen
 ![]
 - Pondremos cada uno de los nodos en el grupo correspondiente 
 
